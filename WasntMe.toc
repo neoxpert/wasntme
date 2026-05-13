@@ -1,0 +1,10 @@
+## Interface: 120001, 120005, 120007
+
+## Title: WasntMe
+## Notes: Automatically creates and updates a Misdirection or Trick of the Trade macro
+## Author: Neoxpert
+## Version: 0.0.1
+
+## Category: Utility
+
+app.lua
